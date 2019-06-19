@@ -1,2 +1,3 @@
-# xo-shell
-XO Shell for SSO and Auth testing
+# react-redux-shell
+
+React + Redux - JWT Authentication
